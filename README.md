@@ -41,17 +41,3 @@
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MyllaWoo/MyllaWoo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Camila">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Camila&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
