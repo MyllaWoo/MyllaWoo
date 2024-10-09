@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">- Sou estudante do primeiro período de Ciência da Computação.👩🏻‍💻<br>- Aspirante a Desenvolvimento de Software.💻</h2>
+<h2 align="left">- Sou estudante do primeiro período de Ciência da Computação.👩🏻‍💻</h2>
 
 ###
 
